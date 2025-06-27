@@ -14,12 +14,10 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "林焕耀",
+    "email": "linhy2771313456@outlook.com",
+    "mobile": "17688437729",
+    "workExpYear": "3年"
   },
   "educationList": [
     {
@@ -52,20 +50,20 @@
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
+      "company_name": "广东飞企互联科技股份有限公司",
+      "department_name": "开发部",
       "work_time": [
-        "2018.06",
-        null
+        "2021.07",
+        "2022.01"
       ],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+      "work_desc": "1. 参与公司“FE云工作台”/“智慧园区中台”等产品的功能模块开发与维护，负责业务逻辑实现与系统集成；\r\n2. 使用 Java + SpringBoot等技术进行前后端开发，配合产品与设计还原核心功能；\n3. 参与客户项目的定制化开发，协助实施人员对接用户反馈并进行技术支持；\n4. 编写相关技术文档，参与代码评审与Bug修复，提高系统稳定性与用户体验。"
     },
     {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
+      "company_name": "同望科技股份有限公司",
+      "department_name": "造价部",
       "work_time": [
-        "2017.06",
-        "2017.12"
+        "2022.03",
+        "2025.06"
       ],
       "work_desc": "前端实习生。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
     },
