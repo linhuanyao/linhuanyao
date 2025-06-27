@@ -10,8 +10,8 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://images.app.goo.gl/7Ac32kxuCUHMQDsW9",
-    "hidden": true
+    "src": "https://s1.aigei.com/src/img/jpg/e3/e3fa124084114b4982d1ace1e23dbd64.jpg?imageMogr2/auto-orient/thumbnail/!282x187r/gravity/Center/crop/282x187/quality/85/%7CimageView2/2/w/282&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:sXKaQqdkeRI3Vr7DuHh4xkvMvoA=",
+    "hidden": false
   },
   "profile": {
     "name": "林焕耀",
@@ -58,7 +58,7 @@
     {
       "project_name": "智慧园区",
       "project_role": "java实习生",
-      "project_time": "2019.04 - 2020.06",
+      "project_time": "2021.07 - 2022.01",
       "project_desc": "参与公司“FE云工作台”/“智慧园区中台”等产品的功能模块开发与维护，负责业务逻辑实现与系统集成。",
       "project_content": "1.  使用 Java + SpringBoot等技术进行前后端开发，配合产品与设计还原核心功能；\r\n2. 参与客户项目的定制化开发，协助实施人员对接用户反馈并进行技术支持；\n3. 编写相关技术文档，参与代码评审与Bug修复，提高系统稳定性与用户体验。"
     },
